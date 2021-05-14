@@ -1,6 +1,6 @@
 # nubceo-nodejs-challenge
 _This is responding to the Nubceo Node.js challenge_.</br>
-_I created a REST API following the bulletpoints given in [The Challenge](https://github.com/improvein/dev-challenge/tree/master/backend-nodejs)_.</br>
+_I created a REST API following the bulletpoints given in the challenge_.</br>
 _Several libraries were used, which will be listed at the bottom of this file_.
 _All URLs are assuming the API is running on a local enviroment, so a **localhost** is used with and enviroment **PORT** variable_.</br>
 _Please bear this in mind if you plan on running the server and make the necesary changes_.</br>
