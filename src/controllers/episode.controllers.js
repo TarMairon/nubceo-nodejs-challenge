@@ -25,6 +25,5 @@ function getEpisodeById (req , res) {
 }
 
 module.exports = {
-	getEpisodeById,
-    createEpisode
+	getEpisodeById
 }
